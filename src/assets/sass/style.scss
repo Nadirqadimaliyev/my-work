@@ -1,0 +1,68 @@
+.aa{
+    border-style: none;
+    border: 0;
+    h6:hover{
+        color: #AE9564;
+        border-style: none;
+    }
+    h6{
+        color: white;
+    }
+    i:hover{
+        color: #AE9564;
+    }
+    i{
+        color: white;
+    }
+}
+
+.a{
+    height: 500px;
+    background-color: #695245;
+} 
+.nava{
+    color: rgb(80, 76, 76);
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.cc{
+    a:hover{
+        color: #695245;
+    }
+}
+.bga{
+    width: 100%;
+}
+span{
+    color: black;
+    background-color: #695245;
+}
+.gift{
+    color: #AE9564;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 50px;
+}
+.txt{
+    text-align: center;
+    height: 200px;
+    h5{
+        font-family: cursive;
+    }
+    
+}
+.crd{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .card{
+        border: none;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .crd{
+        display: block;
+    }
+}

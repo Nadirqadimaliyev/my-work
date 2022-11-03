@@ -1,0 +1,41 @@
+.aa {
+  border-style: none;
+  border: 0;
+}
+.aa h6:hover {
+  color: #AE9564;
+  border-style: none;
+}
+.aa h6 {
+  color: white;
+}
+.aa i:hover {
+  color: #AE9564;
+}
+.aa i {
+  color: white;
+}
+
+.a {
+  height: 500px;
+  background-color: #695245;
+}
+
+.nava {
+  color: rgb(80, 76, 76);
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cc a:hover {
+  color: #695245;
+}
+
+.bga {
+  width: 100%;
+}
+
+span {
+  color: black;
+  background-color: #695245;
+}/*# sourceMappingURL=style.css.map */
