@@ -4,7 +4,7 @@ import "../assets/sass/style.scss"
 const SectionHome1 = () => {
   return (
     <div>
-     <div className="container crd">
+     <div className="container sechome1">
      <div className="card" style={{ width: "19rem" }}>
       <i className="fa-solid fa-gift  gift"></i>
         <div className="card-body txt">
@@ -35,9 +35,7 @@ const SectionHome1 = () => {
         </div>
       </div>
      </div>
-      <div className="textt">
-       
-      </div>
+      
     </div>
   );
 };

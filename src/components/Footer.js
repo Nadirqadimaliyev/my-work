@@ -5,7 +5,7 @@ import bg from "../assets/img/bg.png"
 const Footer = () => {
   return (
     <div>
-      <footer className="bg text-center text-white a">
+      <footer className="bg text-center text-white foota">
         {/* Grid container */}
     <div>
       <img src={bg} alt="" className="bga" />
