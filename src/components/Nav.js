@@ -37,13 +37,13 @@ const Nav = () => {
           <Link className="nav-link navli" to="/about">ABOUT US</Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link navli" href="#">CONTACT</a>
+          <Link className="nav-link navli" to="/contact">CONTACT</Link>
         </li>
       </ul>
     </div>
   </div>
 </nav>
-
+    
     </div>
   )
 }
